@@ -1,0 +1,18 @@
+Source: netxms-console
+Maintainer: Alex Kirhenshtein <alk@netxms.org>
+Section: admin
+Priority: optional
+Standards-Version: 4.9.3
+Build-Depends:
+ debhelper (>= 9),
+ libxrender1,
+ libx11-6,
+ libxext6,
+ libfontconfig1,
+ libfreetype6,
+ unzip
+
+Package: netxms-console
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, default-jre
+Description: NetXMS management console

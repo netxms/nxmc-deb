@@ -1,0 +1,9 @@
+netxms-console (2.1.1-1) stable; urgency=medium
+
+  * Improved status map
+  * Fixed bug in sorting alarms by zone name
+  * Zone ID can be generated automatically on zone creation
+  * New node can be created directly from agent tunnel manager
+  * "Bar" mode for gauge dashboard elements working correctly
+
+ -- Alex Kirhenshtein <alk@netxms.org>  Thu, 14 Sep 2017 13:42:57 +0300
