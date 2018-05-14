@@ -1,4 +1,4 @@
-netxms (2.2.5-2) stable; urgency=medium
+netxms-console (2.2.5-2) stable; urgency=medium
 
   * Agent tunnel falls back to unbound mode in case of agent certificate validation failure
   * Zone information added to alarm log, event log, SNMP trap log, and syslog
