@@ -1,4 +1,4 @@
-netxms-console (2.2.5-2) stable; urgency=medium
+netxms-console (2.2.6-1) stable; urgency=medium
 
   * NXSL based queries in object finder
   * Fixed issues:
