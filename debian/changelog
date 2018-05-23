@@ -1,5 +1,14 @@
 netxms-console (2.2.5-2) stable; urgency=medium
 
+  * NXSL based queries in object finder
+  * Fixed issues:
+  *   NX-1395 (Change Object Filter to only search if at least 3 characters have been entered)
+  *   NX-1451 (Additional configs not loaded on agent startup)
+
+ -- Alex Kirhenshtein <alk@netxms.org>  Wed, 23 May 2018 17:07:28 +0300
+
+netxms-console (2.2.5-2) stable; urgency=medium
+
   * Agent tunnel falls back to unbound mode in case of agent certificate validation failure
   * Zone information added to alarm log, event log, SNMP trap log, and syslog
   * Agent returns correct free memory value on Windows
