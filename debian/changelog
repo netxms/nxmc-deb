@@ -1,3 +1,9 @@
+netxms-console (3.0.2258-1) stable; urgency=medium
+
+  * New upstream version
+
+ -- Alex Kirhenshtein <alk@netxms.org>  Wed, 11 Sep 2019 20:19:16 +0300
+
 netxms-console (2.2.16-1) stable; urgency=medium
 
   * New upstream version
