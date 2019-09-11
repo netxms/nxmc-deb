@@ -1,8 +1,7 @@
-contrib/netxms-console.desktop usr/share/applications
 configuration usr/share/netxms-console
+contrib/netxms-console.desktop usr/share/applications
 icon.xpm usr/share/netxms-console
-libcairo-swt.so usr/share/netxms-console
+icons/* usr/share/icons/hicolor
 nxmc usr/share/netxms-console
 nxmc.ini usr/share/netxms-console
 plugins usr/share/netxms-console
-icons/* usr/share/icons/hicolor
